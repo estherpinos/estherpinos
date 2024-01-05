@@ -17,6 +17,7 @@
 ![PHP](https://img.shields.io/badge/PHP-FF007F) 
 ![LARAVEL](https://img.shields.io/badge/CSS-red) 
 ![GITHUB](https://img.shields.io/badge/GITHUB-4A4A4A) 
+![POSTMAN](https://img.shields.io/badge/POSTMAN-orange)
 
 
 
