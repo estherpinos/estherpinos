@@ -15,7 +15,7 @@
 ![VITE](https://img.shields.io/badge/VITE-fa8072) 
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow)
 ![PHP](https://img.shields.io/badge/PHP-FF007F) 
-![LARAVEL](https://img.shields.io/badge/CSS-red) 
+![LARAVEL](https://img.shields.io/badge/LARAVEL-red) 
 ![GITHUB](https://img.shields.io/badge/GITHUB-4A4A4A) 
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-orange)
 
